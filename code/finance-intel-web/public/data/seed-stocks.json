@@ -1,0 +1,1460 @@
+[
+  {
+    "id": "us-nvda",
+    "code": "NVDA",
+    "name": "英伟达",
+    "nameEn": "NVIDIA Corporation",
+    "market": "US",
+    "track": "track-ai-compute",
+    "industry": "半导体-设计",
+    "price": 950.0,
+    "changePercent": 2.3,
+    "tags": [
+      "🟢",
+      "🟡"
+    ],
+    "tagReasons": {
+      "V": "AI 算力全球标准制定者，CUDA 生态护城河深，ROE 持续 >60%",
+      "T": "Blackwell Ultra 产能爬坡周期，2026 H2 sovereign AI 订单可见度强"
+    },
+    "logic": {
+      "long": "全球 AI 算力标准制定者，CUDA 生态壁垒难以撼动；数据中心业务连续 6 季度环比增长",
+      "mid": "Blackwell 出货周期叠加 sovereign AI 需求，2026 H2 业绩超预期概率大",
+      "short": "本季度财报（5/22）市场预期已经较高，警惕高开低走"
+    },
+    "risks": [
+      "客户集中度高，前 4 大客户占比 >40%",
+      "地缘政治出口管制风险（H20/B20 系列）",
+      "估值已反映较多乐观预期（PE 60+）"
+    ],
+    "catalysts": [
+      "GTC 大会（3月）",
+      "季度财报（5/22）",
+      "Blackwell Ultra 发布（2026 H2）"
+    ],
+    "dataSources": [
+      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001045810",
+      "Yahoo Finance: NVDA"
+    ],
+    "updatedAt": "2026-06-03"
+  },
+  {
+    "id": "us-amd",
+    "code": "AMD",
+    "name": "超微半导体",
+    "nameEn": "Advanced Micro Devices, Inc.",
+    "market": "US",
+    "track": "track-ai-compute",
+    "industry": "半导体-设计",
+    "price": 178.5,
+    "changePercent": 1.8,
+    "tags": [
+      "🟡"
+    ],
+    "tagReasons": {
+      "T": "MI300 系列进入大规模放量，2026 H2 客户结构从 Meta 拓展到 OpenAI/Oracle"
+    },
+    "logic": {
+      "long": "CPU+GPU+FPGA+DPU 全栈布局，第二大 AI 加速器供应商",
+      "mid": "MI325X/MI355X 出货爬坡，对标 Blackwell 形成差异化竞争",
+      "short": "AI 收入占比快速提升（已超 50%），市场重估潜力大"
+    },
+    "risks": [
+      "毛利率低于英伟达 20+ 个百分点",
+      "HBM 供应受制于 SK 海力士",
+      "消费级 PC/游戏业务承压"
+    ],
+    "catalysts": [
+      "Advancing AI 大会（2026 H2）",
+      "MI400 平台发布",
+      "季度财报（8月）"
+    ],
+    "dataSources": [
+      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000002488",
+      "Yahoo Finance: AMD"
+    ],
+    "updatedAt": "2026-06-03"
+  },
+  {
+    "id": "us-avgo",
+    "code": "AVGO",
+    "name": "博通",
+    "nameEn": "Broadcom Inc.",
+    "market": "US",
+    "track": "track-ai-compute",
+    "industry": "半导体-设计",
+    "price": 1620.0,
+    "changePercent": 0.9,
+    "tags": [
+      "🟢",
+      "🟡"
+    ],
+    "tagReasons": {
+      "V": "AI ASIC 定制龙头，连续 12 季度 AI 收入环比增长，分红率 1.8%",
+      "T": "Google TPUv6 / Meta MTIA v3 大单交付期，AI 收入占比突破 50%"
+    },
+    "logic": {
+      "long": "全球 AI ASIC 定制化算力龙头，VMware 收购后软件业务形成新增长极",
+      "mid": "3nm ASIC 定制芯片 ASP 持续提升，与 hyperscaler 深度绑定",
+      "short": "6 月初 Q2 财报预期 AI 收入 110 亿美元，环比 +25%"
+    },
+    "risks": [
+      "客户高度集中（Google 占 AI 收入 35%+）",
+      "VMware 整合执行风险",
+      "定制芯片技术路线变化风险"
+    ],
+    "catalysts": [
+      "Q2 财报（6/5）",
+      "Apple 关系变化（合作/竞争）",
+      "3nm/2nm 制程切换"
+    ],
+    "dataSources": [
+      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001730168",
+      "Yahoo Finance: AVGO"
+    ],
+    "updatedAt": "2026-06-03"
+  },
+  {
+    "id": "cn-688256",
+    "code": "688256",
+    "name": "寒武纪",
+    "nameEn": "Cambricon Technologies",
+    "market": "CN",
+    "track": "track-ai-compute",
+    "industry": "半导体-设计",
+    "price": 612.0,
+    "changePercent": 4.2,
+    "tags": [
+      "🟡",
+      "🔴"
+    ],
+    "tagReasons": {
+      "T": "国产 AI 训练芯片独苗，思元 590 对标 H100 跑通大模型",
+      "E": "近期多家券商密集覆盖，国产算力主题催化"
+    },
+    "logic": {
+      "long": "中国唯一具备千卡集群经验的 AI 芯片公司，绑定互联网/电信/政府客户",
+      "mid": "思元 590 进入电信运营商集采名单，2026 年收入预期 50 亿+",
+      "short": "国产算力替代主题龙头，市场情绪催化强烈"
+    },
+    "risks": [
+      "估值极高（PS 50+）",
+      "持续亏损",
+      "HBM/先进制程供应受限"
+    ],
+    "catalysts": [
+      "国产算力替代政策",
+      "思元 690 发布",
+      "三大运营商集采结果"
+    ],
+    "dataSources": [
+      "https://www.sse.com.cn/disclosure/listedinfo/announcement/?productId=688256",
+      "东方财富: 688256"
+    ],
+    "updatedAt": "2026-06-03"
+  },
+  {
+    "id": "cn-300033",
+    "code": "300033",
+    "name": "同花顺",
+    "nameEn": "Tonghua Shun Financial Information Co., Ltd.",
+    "market": "CN",
+    "track": "track-ai-compute",
+    "industry": "金融信息服务",
+    "price": 168.0,
+    "changePercent": -1.2,
+    "tags": [
+      "🟡"
+    ],
+    "tagReasons": {
+      "T": "AI 投顾产品 i 问财 / 智能投顾接入 DeepSeek 流量，2026 年金融 AI 商业化加速"
+    },
+    "logic": {
+      "long": "国内 C 端金融信息服务龙头，2 亿+ 月活用户",
+      "mid": "AI 智能投顾从工具到流量入口，付费转化率提升",
+      "short": "市场成交活跃度回升直接受益"
+    },
+    "risks": [
+      "监管对金融 AI 投顾合规要求趋严",
+      "券商系金融科技竞争",
+      "市场成交量波动风险"
+    ],
+    "catalysts": [
+      "A股成交量回升",
+      "AI 投顾商业化进展",
+      "港股通新增流动性"
+    ],
+    "dataSources": [
+      "https://www.szse.cn/disclosure/listed/notice/index.html?code=300033",
+      "东方财富: 300033"
+    ],
+    "updatedAt": "2026-06-03"
+  },
+  {
+    "id": "hk-00020",
+    "code": "00020",
+    "name": "商汤科技",
+    "nameEn": "SenseTime Group Inc.",
+    "market": "HK",
+    "track": "track-ai-compute",
+    "industry": "AI-视觉",
+    "price": 1.85,
+    "changePercent": 3.5,
+    "tags": [
+      "🟡",
+      "🔴"
+    ],
+    "tagReasons": {
+      "T": "日日新 SenseNova V6 多模态大模型，国产开源大模型第一梯队",
+      "E": "上海/深圳 AI 算力中心建设期，政府订单密集"
+    },
+    "logic": {
+      "long": "国内 CV 龙头，转型 AGI 大模型，绑定政府/金融/汽车多场景",
+      "mid": "生成式 AI 收入占比快速提升，2026 年有望实现单业务线盈亏平衡",
+      "short": "国产算力+国产大模型双主题叠加"
+    },
+    "risks": [
+      "持续大额亏损",
+      "美方实体清单影响",
+      "B 端订单回款慢"
+    ],
+    "catalysts": [
+      "SenseNova V7 发布",
+      "智算中心订单",
+      "汽车智驾大模型定点"
+    ],
+    "dataSources": [
+      "https://www.hkexnews.hk/",
+      "Yahoo Finance: 00020.HK"
+    ],
+    "updatedAt": "2026-06-03"
+  },
+  {
+    "id": "us-lly",
+    "code": "LLY",
+    "name": "礼来",
+    "nameEn": "Eli Lilly and Company",
+    "market": "US",
+    "track": "track-innovative-drugs",
+    "industry": "医药-创新药",
+    "price": 920.0,
+    "changePercent": 1.5,
+    "tags": [
+      "🟢",
+      "🟡"
+    ],
+    "tagReasons": {
+      "V": "全球 GLP-1 双雄之一，糖尿病/减肥双赛道，ROE 持续 >40%",
+      "T": "Zepbound/Mounjaro 销售超预期，2026 年 GLP-1 收入冲击 500 亿美元"
+    },
+    "logic": {
+      "long": "GLP-1 减重新药宇宙的统治者，糖尿病+心血管+阿尔茨海默延伸",
+      "mid": "Orforglipron 口服 GLP-1 三期数据 2026 H1 公布，颠覆注射剂格局",
+      "short": "产能持续爬坡，FDA 批准肥胖适应症扩展"
+    },
+    "risks": [
+      "GLP-1 专利 2030+ 面临生物类似药挑战",
+      "产能扩张执行风险",
+      "集采/医保谈判（特别是中国）"
+    ],
+    "catalysts": [
+      "Orforglipron 三期数据",
+      "Zepbound 季度销售",
+      "阿尔茨海默新药 donanemab 适应症扩展"
+    ],
+    "dataSources": [
+      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000059478",
+      "Yahoo Finance: LLY"
+    ],
+    "updatedAt": "2026-06-03"
+  },
+  {
+    "id": "us-mrna",
+    "code": "MRNA",
+    "name": "莫德纳",
+    "nameEn": "Moderna, Inc.",
+    "market": "US",
+    "track": "track-innovative-drugs",
+    "industry": "医药-疫苗",
+    "price": 42.8,
+    "changePercent": -2.1,
+    "tags": [
+      "🟡",
+      "🔴"
+    ],
+    "tagReasons": {
+      "T": "mRNA 平台型公司，流感/带状疱疹/呼吸道合胞病毒（RSV）/肿瘤管线",
+      "E": "Q3 即将公布黑色素瘤 mRNA-4157 三期中期数据"
+    },
+    "logic": {
+      "long": "mRNA 技术平台型公司，疫苗之外的肿瘤/罕见病管线储备丰富",
+      "mid": "呼吸道合胞病毒（mRNA-1083）2026 上市，进军百亿美元市场",
+      "short": "mRNA-4157 + Keytruda 黑色素瘤三期数据 6 月公布"
+    },
+    "risks": [
+      "新冠疫苗收入断崖式下降",
+      "mRNA 平台技术兑现不确定性",
+      "现金消耗速度"
+    ],
+    "catalysts": [
+      "mRNA-4157 三期数据",
+      "流感 mRNA-1010 上市",
+      "RSV 疫苗获批"
+    ],
+    "dataSources": [
+      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001682852",
+      "Yahoo Finance: MRNA"
+    ],
+    "updatedAt": "2026-06-03"
+  },
+  {
+    "id": "cn-600276",
+    "code": "600276",
+    "name": "恒瑞医药",
+    "nameEn": "Jiangsu Hengrui Pharmaceuticals Co., Ltd.",
+    "market": "CN",
+    "track": "track-innovative-drugs",
+    "industry": "医药-创新药",
+    "price": 58.4,
+    "changePercent": 2.7,
+    "tags": [
+      "🟢",
+      "🟡"
+    ],
+    "tagReasons": {
+      "V": "中国创新药龙头，仿创结合 + 国际化双轮驱动，ROE 触底回升",
+      "T": "GLP-1 / ADC / PD-L1 三条管线进入兑现期，2026 创新药收入占比 60%+"
+    },
+    "logic": {
+      "long": "国内化学药龙头，研发投入连续 5 年超 50 亿，海外 BD 能力国内最强",
+      "mid": "GLP-1 减肥药 HRS-7535 二期数据 + 多个 ADC 海外授权（BD）",
+      "short": "2026 ASCO 数据催化，市场对管线兑现信心回升"
+    },
+    "risks": [
+      "集采常态化",
+      "海外授权/并购不及预期",
+      "研发投入资本化压力"
+    ],
+    "catalysts": [
+      "ASCO 数据公布",
+      "海外 BD 新订单",
+      "HRS-7535 减重数据"
+    ],
+    "dataSources": [
+      "http://www.sse.com.cn/disclosure/listedinfo/announcement/?productId=600276",
+      "东方财富: 600276"
+    ],
+    "updatedAt": "2026-06-03"
+  },
+  {
+    "id": "hk-06160",
+    "code": "06160",
+    "name": "百济神州",
+    "nameEn": "BeiGene, Ltd.",
+    "market": "HK",
+    "track": "track-innovative-drugs",
+    "industry": "医药-创新药",
+    "price": 138.0,
+    "changePercent": 0.5,
+    "tags": [
+      "🟡"
+    ],
+    "tagReasons": {
+      "T": "泽布替尼（百悦泽）海外销售持续高增长，2026 年有望突破 30 亿美元"
+    },
+    "logic": {
+      "long": "中国创新药全球化标杆，BTK 抑制剂全球第一",
+      "mid": "泽布替尼对伊布替尼头对头临床优势持续兑现，海外市占率提升",
+      "short": "Q2 财报（7月）市场对销售预期分歧大"
+    },
+    "risks": [
+      "持续亏损，研发开支巨大",
+      "中美双上市监管成本",
+      "Bcl-2 抑制剂研发延期"
+    ],
+    "catalysts": [
+      "Q2 财报（7月底）",
+      "Sonrotoclax 三期数据",
+      "PD-1 海外授权进展"
+    ],
+    "dataSources": [
+      "https://www.hkexnews.hk/",
+      "Yahoo Finance: 06160.HK"
+    ],
+    "updatedAt": "2026-06-03"
+  },
+  {
+    "id": "us-tsla",
+    "code": "TSLA",
+    "name": "特斯拉",
+    "nameEn": "Tesla, Inc.",
+    "market": "US",
+    "track": "track-ev",
+    "industry": "汽车-电动车",
+    "price": 248.0,
+    "changePercent": -1.8,
+    "tags": [
+      "🟢",
+      "🟡",
+      "🔴"
+    ],
+    "tagReasons": {
+      "V": "全球电动车龙头 + 自动驾驶 FSD 平台型公司，能源/软件/制造三栖",
+      "T": "Optimus V3 量产 + 4680 电池成本下行 + Megapack 储能放量",
+      "E": "Robotaxi 6 月底奥斯汀试运营，6/9 股东大会 Optimus 进展"
+    },
+    "logic": {
+      "long": "电动车 + 自动驾驶 + 人形机器人 + 储能 = 全球最大硬件+软件平台公司",
+      "mid": "FSD v13 / v14 持续迭代，Robotaxi 2026 H2 商业化",
+      "short": "6/9 股东大会 + Robotaxi 试运营双重事件"
+    },
+    "risks": [
+      "中国电动车价格战压制单车毛利",
+      "FSD 安全事故监管风险",
+      "Optimus 量产时点反复延期"
+    ],
+    "catalysts": [
+      "6/9 股东大会",
+      "Robotaxi 试运营",
+      "Q2 交付量（7/2）"
+    ],
+    "dataSources": [
+      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001318605",
+      "Yahoo Finance: TSLA"
+    ],
+    "updatedAt": "2026-06-03"
+  },
+  {
+    "id": "us-rivn",
+    "code": "RIVN",
+    "name": "Rivian Automotive",
+    "nameEn": "Rivian Automotive, Inc.",
+    "market": "US",
+    "track": "track-ev",
+    "industry": "汽车-电动车",
+    "price": 13.2,
+    "changePercent": -3.5,
+    "tags": [
+      "🟡"
+    ],
+    "tagReasons": {
+      "T": "R2 平台 2026 H2 量产，扭亏可见性增强；与 VW 集团合资落地"
+    },
+    "logic": {
+      "long": "美国本土电动车第二品牌，亚马逊 EDV 独家供应绑定物流场景",
+      "mid": "R2 中型 SUV 在德州工厂量产，目标单车毛利转正",
+      "short": "Q2 交付指引（7月）市场预期分歧大"
+    },
+    "risks": [
+      "现金消耗快，融资压力大",
+      "R2 量产延期",
+      "竞争白热化（福特/雪佛兰/现代）"
+    ],
+    "catalysts": [
+      "R2 量产爬坡",
+      "VW 合资公司进展",
+      "Q2 财报（8月）"
+    ],
+    "dataSources": [
+      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001874178",
+      "Yahoo Finance: RIVN"
+    ],
+    "updatedAt": "2026-06-03"
+  },
+  {
+    "id": "cn-300750",
+    "code": "300750",
+    "name": "宁德时代",
+    "nameEn": "Contemporary Amperex Technology Co., Limited",
+    "market": "CN",
+    "track": "track-ev",
+    "industry": "电池-动力",
+    "price": 245.0,
+    "changePercent": 1.2,
+    "tags": [
+      "🟢",
+      "🟡"
+    ],
+    "tagReasons": {
+      "V": "全球动力电池龙头，连续 8 年市占率第一，海外产能加速",
+      "T": "神行/麒麟/钠离子/凝聚态四代技术储备，2026 海外建厂落地"
+    },
+    "logic": {
+      "long": "动力电池 + 储能电池双轮驱动，全球新能源供应链核心节点",
+      "mid": "欧洲/匈牙利/西班牙/印尼工厂 2026-2027 密集投产",
+      "short": "神行超充电池订单兑现节奏 + 北美建厂政策催化"
+    },
+    "risks": [
+      "锂电池产能过剩",
+      "海外建厂政策风险（美国 IRA/欧洲 CRMA）",
+      "固态电池技术路线冲击"
+    ],
+    "catalysts": [
+      "匈牙利工厂投产",
+      "钠离子电池规模商用",
+      "北汽/蔚来/小鹏新平台定点"
+    ],
+    "dataSources": [
+      "https://www.szse.cn/disclosure/listed/notice/index.html?code=300750",
+      "东方财富: 300750"
+    ],
+    "updatedAt": "2026-06-03"
+  },
+  {
+    "id": "cn-002594",
+    "code": "002594",
+    "name": "比亚迪",
+    "nameEn": "BYD Company Limited",
+    "market": "CN",
+    "track": "track-ev",
+    "industry": "汽车-电动车",
+    "price": 380.0,
+    "changePercent": 3.1,
+    "tags": [
+      "🟢",
+      "🟡"
+    ],
+    "tagReasons": {
+      "V": "全球新能源车销量冠军，垂直一体化 + 刀片电池，2026 年销量目标 500 万",
+      "T": "海外销量加速 + 智驾天神之眼全系标配 + 高端品牌方程豹/仰望上量"
+    },
+    "logic": {
+      "long": "三电+整车+IGBT+太阳能一体化，全产业链+全市场布局",
+      "mid": "出海加速（巴西/泰国/匈牙利工厂），海外单车 ASP 翻倍",
+      "short": "5 月销量 33.2 万辆连续 4 月超特斯拉，DM-i 5.0 落地"
+    },
+    "risks": [
+      "国内价格战压制毛利率",
+      "海外建厂/销售网络执行风险",
+      "欧盟反补贴关税"
+    ],
+    "catalysts": [
+      "6月销量数据",
+      "方程豹/仰望高端车型交付",
+      "巴西/泰国工厂投产"
+    ],
+    "dataSources": [
+      "https://www.szse.cn/disclosure/listed/notice/index.html?code=002594",
+      "东方财富: 002594"
+    ],
+    "updatedAt": "2026-06-03"
+  },
+  {
+    "id": "hk-09866",
+    "code": "09866",
+    "name": "蔚来",
+    "nameEn": "NIO Inc.",
+    "market": "HK",
+    "track": "track-ev",
+    "industry": "汽车-电动车",
+    "price": 32.5,
+    "changePercent": -2.4,
+    "tags": [
+      "🟡",
+      "🔴"
+    ],
+    "tagReasons": {
+      "T": "新子品牌乐道 L60 起量，2026 Q2 销量指引 7-8 万台",
+      "E": "6/15 蔚来乐道 L90 上市 + 蔚来 ET9 旗舰销量爬坡"
+    },
+    "logic": {
+      "long": "中国高端电动车 + 换电网络龙头，电池租用 BaaS 模式独此一家",
+      "mid": "乐道 L60/L90 + 蔚来 ET9 共同形成 20-80 万产品矩阵",
+      "short": "6/15 乐道 L90 上市 + Q2 销量指引催化"
+    },
+    "risks": [
+      "持续大额亏损",
+      "换电模式盈利时点不确定",
+      "竞争加剧（理想/问界/小鹏）"
+    ],
+    "catalysts": [
+      "乐道 L90 上市",
+      "Q2 销量/财报",
+      "子品牌萤火虫发布"
+    ],
+    "dataSources": [
+      "https://www.hkexnews.hk/",
+      "Yahoo Finance: 09866.HK"
+    ],
+    "updatedAt": "2026-06-03"
+  },
+  {
+    "id": "cn-002074",
+    "code": "002074",
+    "name": "国轩高科",
+    "nameEn": "Gotion High-Tech Co., Ltd.",
+    "market": "CN",
+    "track": "track-energy-storage",
+    "industry": "电池-储能",
+    "price": 28.5,
+    "changePercent": 2.4,
+    "tags": [
+      "🟡"
+    ],
+    "tagReasons": {
+      "T": "储能电池出货量全球前十，大众战略入股后技术升级 + 欧洲建厂"
+    },
+    "logic": {
+      "long": "国内动力+储能电池第二梯队，大众战略投资后导入 VDA 标准",
+      "mid": "海外储能订单 2026 年加速（欧洲/澳洲），大众合资效应兑现",
+      "short": "国内大储装机旺季，Q2 储能出货指引"
+    },
+    "risks": [
+      "动力电池毛利率低",
+      "应收账款周转慢",
+      "客户集中度高"
+    ],
+    "catalysts": [
+      "大众合资工厂投产",
+      "欧洲储能大单",
+      "Q2 财报（8月）"
+    ],
+    "dataSources": [
+      "https://www.szse.cn/disclosure/listed/notice/index.html?code=002074",
+      "东方财富: 002074"
+    ],
+    "updatedAt": "2026-06-03"
+  },
+  {
+    "id": "cn-300274",
+    "code": "300274",
+    "name": "阳光电源",
+    "nameEn": "Sungrow Power Supply Co., Ltd.",
+    "market": "CN",
+    "track": "track-energy-storage",
+    "industry": "电源-逆变器+储能",
+    "price": 78.2,
+    "changePercent": 1.8,
+    "tags": [
+      "🟢",
+      "🟡"
+    ],
+    "tagReasons": {
+      "V": "全球逆变器龙头，连续多年市占率第一，海外储能系统集成能力强",
+      "T": "全球大储装机爆发期，2025-2027 CAGR 40%+，公司订单饱满"
+    },
+    "logic": {
+      "long": "光伏逆变器+储能 PCS+系统集成，全球新能源电气设备龙头",
+      "mid": "海外大储市占率从 20% 向 30% 提升，盈利能力远好于国内",
+      "short": "2026 H2 储能装机旺季，AIDC 电源业务新增量"
+    },
+    "risks": [
+      "光伏行业产能过剩压制逆变器价格",
+      "海外贸易壁垒",
+      "储能项目延期"
+    ],
+    "catalysts": [
+      "海外大储新订单",
+      "AIDC 电源订单",
+      "Q2 财报（8月）"
+    ],
+    "dataSources": [
+      "https://www.szse.cn/disclosure/listed/notice/index.html?code=300274",
+      "东方财富: 300274"
+    ],
+    "updatedAt": "2026-06-03"
+  },
+  {
+    "id": "us-asml",
+    "code": "ASML",
+    "name": "阿斯麦",
+    "nameEn": "ASML Holding N.V.",
+    "market": "US",
+    "track": "track-semiconductor-equipment",
+    "industry": "半导体-设备",
+    "price": 720.0,
+    "changePercent": 1.9,
+    "tags": [
+      "🟢",
+      "🟡"
+    ],
+    "tagReasons": {
+      "V": "全球唯一 EUV 光刻机供应商，垄断地位 + 长期订单可见性",
+      "T": "High-NA EUV 量产元年，2026 H2 交付 Intel 18A"
+    },
+    "logic": {
+      "long": "全球半导体设备皇冠上的明珠，EUV 单台售价 2 亿美元",
+      "mid": "High-NA EUV 渗透率从 1% 到 10% 突破，2030 年累计 50+ 台订单",
+      "short": "Q2 财报（7/16）市场对订单金额分歧大"
+    },
+    "risks": [
+      "出口管制升级（中国不能买 EUV）",
+      "High-NA 客户接受度慢于预期",
+      "三星/Intel 工艺路线延迟"
+    ],
+    "catalysts": [
+      "High-NA EUV 交付",
+      "Q2 订单金额",
+      "2nm 节点晶圆厂资本开支"
+    ],
+    "dataSources": [
+      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000937966",
+      "Yahoo Finance: ASML"
+    ],
+    "updatedAt": "2026-06-03"
+  },
+  {
+    "id": "us-amat",
+    "code": "AMAT",
+    "name": "应用材料",
+    "nameEn": "Applied Materials, Inc.",
+    "market": "US",
+    "track": "track-semiconductor-equipment",
+    "industry": "半导体-设备",
+    "price": 195.0,
+    "changePercent": 0.7,
+    "tags": [
+      "🟢"
+    ],
+    "tagReasons": {
+      "V": "全球半导体设备第二（沉积/刻蚀/量测），稳定派息"
+    },
+    "logic": {
+      "long": "全球半导体设备前三大公司，受益全球晶圆厂资本开支",
+      "mid": "先进封装 / Gate-all-around 工艺升级带动 ALD 沉积需求",
+      "short": "中国市场风险已基本 price-in"
+    },
+    "risks": [
+      "出口管制影响中国收入（中国占比 30%+）",
+      "Intel 18A 工艺执行风险",
+      "存储芯片资本开支周期下行"
+    ],
+    "catalysts": [
+      "Q2 财报（8月）",
+      "三星/SK 海力士 HBM4 资本开支",
+      "GAA 工艺量产"
+    ],
+    "dataSources": [
+      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000006951",
+      "Yahoo Finance: AMAT"
+    ],
+    "updatedAt": "2026-06-03"
+  },
+  {
+    "id": "cn-688012",
+    "code": "688012",
+    "name": "中微公司",
+    "nameEn": "Advanced Micro-Fabrication Equipment Inc. China",
+    "market": "CN",
+    "track": "track-semiconductor-equipment",
+    "industry": "半导体-设备",
+    "price": 192.0,
+    "changePercent": 2.8,
+    "tags": [
+      "🟢",
+      "🟡"
+    ],
+    "tagReasons": {
+      "V": "国内刻蚀设备龙头，CCP/ICP 刻蚀机进入 5nm 先进制程",
+      "T": "国产替代主线，2026 年存储/逻辑客户订单翻倍"
+    },
+    "logic": {
+      "long": "国产刻蚀机龙头，国内市占率持续提升，海外 SK 海力士验证通过",
+      "mid": "存储芯片国产化 + 长江存储/中芯国际扩产带动刻蚀机需求",
+      "short": "国产替代主题 + 国产存储芯片产业链催化"
+    },
+    "risks": [
+      "技术差距（EUV 量级差距大）",
+      "出口管制影响核心零部件",
+      "下游晶圆厂资本开支波动"
+    ],
+    "catalysts": [
+      "国产存储芯片量产",
+      "中芯国际/长江存储扩产",
+      "新一代刻蚀机交付"
+    ],
+    "dataSources": [
+      "https://www.sse.com.cn/disclosure/listedinfo/announcement/?productId=688012",
+      "东方财富: 688012"
+    ],
+    "updatedAt": "2026-06-03"
+  },
+  {
+    "id": "hk-00522",
+    "code": "00522",
+    "name": "ASMPT",
+    "nameEn": "ASMPT Limited",
+    "market": "HK",
+    "track": "track-semiconductor-equipment",
+    "industry": "半导体-封装设备",
+    "price": 88.0,
+    "changePercent": -0.8,
+    "tags": [
+      "🟡"
+    ],
+    "tagReasons": {
+      "T": "先进封装（CoWoS）核心设备供应商，绑定台积电/三星/海力士"
+    },
+    "logic": {
+      "long": "全球封装设备龙头，受益 AI 芯片 CoWoS 产能爆发",
+      "mid": "TCB 热压键合设备是 HBM4 必备，单台售价 300 万+美元",
+      "short": "HBM4 量产 + CoWoS-S/L 扩产周期"
+    },
+    "risks": [
+      "客户集中度高（台积电占比 40%+）",
+      "中国封装厂扩产影响",
+      "技术路线变化（如玻璃基板）"
+    ],
+    "catalysts": [
+      "台积电 CoWoS 扩产",
+      "HBM4 量产",
+      "Q2 订单（7月）"
+    ],
+    "dataSources": [
+      "https://www.hkexnews.hk/",
+      "Yahoo Finance: 0522.HK"
+    ],
+    "updatedAt": "2026-06-03"
+  },
+  {
+    "id": "us-cost",
+    "code": "COST",
+    "name": "好市多",
+    "nameEn": "Costco Wholesale Corporation",
+    "market": "US",
+    "track": "track-consumer-recovery",
+    "industry": "零售-仓储会员",
+    "price": 905.0,
+    "changePercent": 0.4,
+    "tags": [
+      "🟢"
+    ],
+    "tagReasons": {
+      "V": "全球会员制仓储零售龙头，连续 20+ 季度同店增长，分红率 0.5%"
+    },
+    "logic": {
+      "long": "消费降级最大受益者，会员续费率 92%+，护城河深",
+      "mid": "全球门店持续扩张（中国/澳洲/欧洲新店），新店进入收获期",
+      "short": "6/2 公布 5 月销售数据，市场关注同店增长"
+    },
+    "risks": [
+      "电商冲击（Amazon/Walmart 配送）",
+      "美国消费下行",
+      "汇率波动"
+    ],
+    "catalysts": [
+      "Q3 财报（5/30）",
+      "新店销售数据",
+      "会员费提价预期"
+    ],
+    "dataSources": [
+      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000909832",
+      "Yahoo Finance: COST"
+    ],
+    "updatedAt": "2026-06-03"
+  },
+  {
+    "id": "us-sbux",
+    "code": "SBUX",
+    "name": "星巴克",
+    "nameEn": "Starbucks Corporation",
+    "market": "US",
+    "track": "track-consumer-recovery",
+    "industry": "消费-餐饮",
+    "price": 92.5,
+    "changePercent": 1.6,
+    "tags": [
+      "🟢",
+      "🟡"
+    ],
+    "tagReasons": {
+      "V": "全球最大连锁咖啡，分红率 2.6%",
+      "T": "中国市场新 CEO 改革 + 美国门店流量恢复 + AI 智能门店"
+    },
+    "logic": {
+      "long": "全球咖啡连锁龙头，3 万+ 门店，会员 3500 万",
+      "mid": "中国业务触底反弹（CEO 改革 + 价格战应对）",
+      "short": "6/2 中国 5 月同店数据 + Q3 财报（7月底）"
+    },
+    "risks": [
+      "中国本土咖啡（瑞幸/库迪）激烈竞争",
+      "美国消费降级",
+      "新 CEO 战略执行风险"
+    ],
+    "catalysts": [
+      "Q3 财报（7月底）",
+      "中国同店转正",
+      "AI 智能门店试点效果"
+    ],
+    "dataSources": [
+      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000829224",
+      "Yahoo Finance: SBUX"
+    ],
+    "updatedAt": "2026-06-03"
+  },
+  {
+    "id": "cn-600519",
+    "code": "600519",
+    "name": "贵州茅台",
+    "nameEn": "Kweichow Moutai Co., Ltd.",
+    "market": "CN",
+    "track": "track-consumer-recovery",
+    "industry": "消费-白酒",
+    "price": 1480.0,
+    "changePercent": -0.5,
+    "tags": [
+      "🟢",
+      "🟡"
+    ],
+    "tagReasons": {
+      "V": "中国高端白酒绝对龙头，ROE >30%，品牌护城河极深",
+      "T": "白酒行业从去库存周期进入补库存周期，2026 飞天茅台出厂价预期提升"
+    },
+    "logic": {
+      "long": "中国最强消费品牌，定价权极强，长期 ROE >30%",
+      "mid": "白酒行业触底反弹，茅台 1935 / 飞天出货节奏",
+      "short": "618 电商渠道表现 + 端午动销反馈"
+    },
+    "risks": [
+      "白酒消费场景受经济影响",
+      "反腐/政策风险",
+      "渠道库存压力"
+    ],
+    "catalysts": [
+      "端午动销数据",
+      "Q2 业绩预告",
+      "出厂价提升预期"
+    ],
+    "dataSources": [
+      "http://www.sse.com.cn/disclosure/listedinfo/announcement/?productId=600519",
+      "东方财富: 600519"
+    ],
+    "updatedAt": "2026-06-03"
+  },
+  {
+    "id": "hk-09988",
+    "code": "09988",
+    "name": "阿里巴巴-W",
+    "nameEn": "Alibaba Group Holding Limited",
+    "market": "HK",
+    "track": "track-consumer-recovery",
+    "industry": "互联网-电商",
+    "price": 95.0,
+    "changePercent": 2.1,
+    "tags": [
+      "🟢",
+      "🟡"
+    ],
+    "tagReasons": {
+      "V": "中国电商+云+AI 三栖平台公司，回购+派息齐发，估值修复",
+      "T": "阿里云连续 5 季度加速增长，AI 推理算力收入超 50% 增长"
+    },
+    "logic": {
+      "long": "中国电商第二+云第一+菜鸟国际，三大支柱+千亿级现金流",
+      "mid": "AI 算力需求+大模型商业化，云业务从 IaaS 走向 MaaS",
+      "short": "618 大促 GMV 表现 + 阿里云收入指引"
+    },
+    "risks": [
+      "电商竞争（拼多多/京东/抖音）",
+      "中国云市场内卷",
+      "监管政策变化"
+    ],
+    "catalysts": [
+      "618 GMV 数据",
+      "Q1 财报（7月）",
+      "AI 商业化新进展"
+    ],
+    "dataSources": [
+      "https://www.hkexnews.hk/",
+      "Yahoo Finance: 09988.HK"
+    ],
+    "updatedAt": "2026-06-03"
+  },
+  {
+    "id": "us-coin",
+    "code": "COIN",
+    "name": "Coinbase",
+    "nameEn": "Coinbase Global, Inc.",
+    "market": "US",
+    "track": "track-crypto",
+    "industry": "金融科技-交易所",
+    "price": 285.0,
+    "changePercent": 4.8,
+    "tags": [
+      "🟡",
+      "🔴"
+    ],
+    "tagReasons": {
+      "T": "BTC 现货 ETF 资金流入常态化 + 美国稳定币法案推进，交易量持续高位",
+      "E": "6/3 BTC 突破 11 万美元 + MicroStrategy 持仓浮盈超 250 亿美元催化"
+    },
+    "logic": {
+      "long": "美国合规加密交易所龙头，托管/订阅/Base L2 多元化收入",
+      "mid": "美国监管框架明确化（稳定币法案、ETF 现货审批）后规模效应",
+      "short": "BTC 价格突破 + ETF 资金流入 + 链上活跃度回升"
+    },
+    "risks": [
+      "加密资产价格波动巨大",
+      "监管政策反复",
+      "交易量周期性"
+    ],
+    "catalysts": [
+      "BTC 价格走势",
+      "稳定币法案进展",
+      "Q2 财报（7月底）"
+    ],
+    "dataSources": [
+      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001679788",
+      "Yahoo Finance: COIN"
+    ],
+    "updatedAt": "2026-06-03"
+  },
+  {
+    "id": "us-mstr",
+    "code": "MSTR",
+    "name": "微策略",
+    "nameEn": "MicroStrategy Incorporated",
+    "market": "US",
+    "track": "track-crypto",
+    "industry": "金融科技-比特币持仓",
+    "price": 1520.0,
+    "changePercent": 3.6,
+    "tags": [
+      "🟡",
+      "🔴"
+    ],
+    "tagReasons": {
+      "T": "全球最大 BTC 持仓公司（>25 万枚），BTC 价格弹性的最高 Beta 标的",
+      "E": "BTC 突破 11 万美元 + 美国战略储备预期"
+    },
+    "logic": {
+      "long": "比特币价格 + 杠杆率放大器，2.5% 可转债 + 21% Plan 股权融资永续买币",
+      "mid": "21/21 Plan 计划 2026 年再融资 420 亿美元持续加仓 BTC",
+      "short": "BTC 价格短期突破 + 财报披露 BTC 持仓浮盈"
+    },
+    "risks": [
+      "BTC 价格剧烈波动",
+      "高杠杆再融资风险",
+      "软件主业持续萎缩"
+    ],
+    "catalysts": [
+      "BTC 价格走势",
+      "21/21 Plan 进展",
+      "21% 优先股发行"
+    ],
+    "dataSources": [
+      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001050446",
+      "Yahoo Finance: MSTR"
+    ],
+    "updatedAt": "2026-06-03"
+  },
+  {
+    "id": "hk-03888",
+    "code": "03888",
+    "name": "金山软件",
+    "nameEn": "Kingsoft Corporation Limited",
+    "market": "HK",
+    "track": "track-crypto",
+    "industry": "软件-互联网",
+    "price": 32.0,
+    "changePercent": 0.8,
+    "tags": [
+      "🟡"
+    ],
+    "tagReasons": {
+      "T": "通过比特币挖矿+海外 Web3 布局间接参与加密经济，西山居游戏出海加速"
+    },
+    "logic": {
+      "long": "国内老牌软件+游戏公司，WPS+西山居+猎豹移动三大业务",
+      "mid": "游戏出海（剑侠世界）+ 云服务与 AI 整合",
+      "short": "市场对 Web3 业务重新估值"
+    },
+    "risks": [
+      "游戏版号不确定性",
+      "WPS 竞争（Office 365）",
+      "加密业务监管风险"
+    ],
+    "catalysts": [
+      "新游戏版号",
+      "Q2 财报（8月）",
+      "Web3 业务进展"
+    ],
+    "dataSources": [
+      "https://www.hkexnews.hk/",
+      "Yahoo Finance: 3888.HK"
+    ],
+    "updatedAt": "2026-06-03"
+  },
+  {
+    "id": "us-fanuy",
+    "code": "FANUY",
+    "name": "发那科 ADR",
+    "nameEn": "Fanuc Corporation (ADR)",
+    "market": "US",
+    "track": "track-robotics",
+    "industry": "工业机器人",
+    "price": 18.5,
+    "changePercent": 0.6,
+    "tags": [
+      "🟢"
+    ],
+    "tagReasons": {
+      "V": "全球工业机器人四大家族之首，控制器+伺服电机+减速器全自研"
+    },
+    "logic": {
+      "long": "全球工厂自动化核心供应商，深度绑定汽车/3C/医疗下游",
+      "mid": "AI 大模型 + 协作机器人 + 数字孪生，三股新驱动力",
+      "short": "Tesla Optimus V3 落地预期提升整个产业链估值"
+    },
+    "risks": [
+      "中国本土机器人厂商（埃斯顿/汇川）价格竞争",
+      "汽车产线资本开支周期",
+      "伺服/控制器技术追赶"
+    ],
+    "catalysts": [
+      "Tesla Optimus 进展",
+      "AI 机器人概念催化",
+      "Q1 财报（7月）"
+    ],
+    "dataSources": [
+      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001131361",
+      "Yahoo Finance: FANUY"
+    ],
+    "updatedAt": "2026-06-03"
+  },
+  {
+    "id": "cn-300124",
+    "code": "300124",
+    "name": "汇川技术",
+    "nameEn": "Shenzhen Inovance Technology Co., Ltd.",
+    "market": "CN",
+    "track": "track-robotics",
+    "industry": "工业自动化+伺服",
+    "price": 68.5,
+    "changePercent": 2.4,
+    "tags": [
+      "🟢",
+      "🟡"
+    ],
+    "tagReasons": {
+      "V": "国内工业自动化龙头，伺服+变频器+PLC+新能源汽车电控多产品线",
+      "T": "人形机器人行星滚柱丝杠+伺服电机双产品线切入，2026 年小批量供货"
+    },
+    "logic": {
+      "long": "国内中高端伺服+变频器市占率第一，新能源车电控绑定理想/小鹏/广汽",
+      "mid": "人形机器人零部件（伺服+丝杠）从 0 到 1 突破",
+      "short": "2026 H2 人形机器人量产元年，汇川丝杠+伺服订单兑现"
+    },
+    "risks": [
+      "工控业务下游周期（3C/锂电/光伏）",
+      "新能源车电控价格战",
+      "人形机器人量产时点延后"
+    ],
+    "catalysts": [
+      "人形机器人订单",
+      "理想/小鹏新平台定点",
+      "Q2 财报（8月）"
+    ],
+    "dataSources": [
+      "https://www.szse.cn/disclosure/listed/notice/index.html?code=300124",
+      "东方财富: 300124"
+    ],
+    "updatedAt": "2026-06-03"
+  },
+  {
+    "id": "cn-002472",
+    "code": "002472",
+    "name": "双环传动",
+    "nameEn": "Zhejiang Shuanghuan Driveline Co., Ltd.",
+    "market": "CN",
+    "track": "track-robotics",
+    "industry": "齿轮-精密传动",
+    "price": 42.8,
+    "changePercent": 3.8,
+    "tags": [
+      "🟡",
+      "🔴"
+    ],
+    "tagReasons": {
+      "T": "RV 减速器国内龙头，绑定国内人形机器人本体厂商",
+      "E": "近期国产人形机器人密集发布，双环 RV 减速器订单预期提升"
+    },
+    "logic": {
+      "long": "国内齿轮龙头，精密齿轮+RV 减速器+谐波减速器三大产品线",
+      "mid": "人形机器人 RV 减速器从 0 到 1，2026 H2 量产订单",
+      "short": "国产人形机器人本体厂商（智元/宇树/优必选）密集发布"
+    },
+    "risks": [
+      "传统齿轮业务价格战",
+      "RV 减速器国际竞争（哈默纳科/纳博特斯克）",
+      "人形机器人量产时点延后"
+    ],
+    "catalysts": [
+      "国产人形机器人发布",
+      "RV 减速器订单",
+      "Q2 财报（8月）"
+    ],
+    "dataSources": [
+      "https://www.szse.cn/disclosure/listed/notice/index.html?code=002472",
+      "东方财富: 002472"
+    ],
+    "updatedAt": "2026-06-03"
+  },
+  {
+    "id": "us-rklb",
+    "code": "RKLB",
+    "name": "Rocket Lab USA",
+    "nameEn": "Rocket Lab USA, Inc.",
+    "market": "US",
+    "track": "track-aerospace",
+    "industry": "商业航天-火箭",
+    "price": 28.5,
+    "changePercent": 5.0,
+    "tags": [
+      "🟡",
+      "🔴"
+    ],
+    "tagReasons": {
+      "T": "中型火箭 Neutron 首飞成功（2026 H1），2027 年实现月级发射能力",
+      "E": "6/2 中子号首飞成功催化 + SpaceX 星舰量产带来太空经济整体重估"
+    },
+    "logic": {
+      "long": "全球第二大商业火箭公司，Electron + Neutron 火箭 + 卫星组件三大业务",
+      "mid": "Neutron 可回收中型火箭对标 Falcon 9，单价 5000 万美元",
+      "short": "中子号首飞 + 2026 发射订单翻倍预期"
+    },
+    "risks": [
+      "Neutron 火箭首飞失败",
+      "发射服务市场激烈竞争（SpaceX）",
+      "SpaceX 星舰挤压中小型订单"
+    ],
+    "catalysts": [
+      "Neutron 商业首飞",
+      "Q2 财报（8月）",
+      "卫星组件业务订单"
+    ],
+    "dataSources": [
+      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001819994",
+      "Yahoo Finance: RKLB"
+    ],
+    "updatedAt": "2026-06-03"
+  },
+  {
+    "id": "us-spce",
+    "code": "SPCE",
+    "name": "维珍银河",
+    "nameEn": "Virgin Galactic Holdings, Inc.",
+    "market": "US",
+    "track": "track-aerospace",
+    "industry": "商业航天-太空旅游",
+    "price": 6.2,
+    "changePercent": -2.5,
+    "tags": [
+      "🔴"
+    ],
+    "tagReasons": {
+      "E": "Delta 飞船商业运营恢复 + 高超声速点对点运输概念"
+    },
+    "logic": {
+      "long": "亚轨道太空旅游唯一上市标的，Delta 飞船可重复使用",
+      "mid": "业务从太空旅游延伸至高超声速点对点运输（与客户合作）",
+      "short": "Delta 飞船商业化运营节奏"
+    },
+    "risks": [
+      "持续大额亏损",
+      "太空旅游市场规模有限",
+      "高超声速竞争（Hermes）"
+    ],
+    "catalysts": [
+      "Delta 商业运营",
+      "Q2 财报（8月）",
+      "高超声速合作伙伴进展"
+    ],
+    "dataSources": [
+      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001706946",
+      "Yahoo Finance: SPCE"
+    ],
+    "updatedAt": "2026-06-03"
+  },
+  {
+    "id": "cn-002446",
+    "code": "002446",
+    "name": "盛路通信",
+    "nameEn": "Guangdong Shenglu Communication Technology Co., Ltd.",
+    "market": "CN",
+    "track": "track-aerospace",
+    "industry": "通信-卫星载荷",
+    "price": 11.2,
+    "changePercent": 2.1,
+    "tags": [
+      "🟡"
+    ],
+    "tagReasons": {
+      "T": "中国卫星互联网地面端+星载相控阵天线核心供应商，受益 GW 星座+千帆星座密集发射"
+    },
+    "logic": {
+      "long": "国内卫星通信载荷龙头，受益中国 GW 星座+千帆星座建设",
+      "mid": "2026-2028 中国卫星密集发射期，载荷+地面端订单兑现",
+      "short": "GW 星座发射节奏 + 卫星互联网牌照进展"
+    },
+    "risks": [
+      "卫星发射节奏低于预期",
+      "星载相控阵技术迭代",
+      "客户集中度高（航天科技/科工）"
+    ],
+    "catalysts": [
+      "GW 星座发射",
+      "千帆星座组网",
+      "Q2 财报（8月）"
+    ],
+    "dataSources": [
+      "https://www.szse.cn/disclosure/listed/notice/index.html?code=002446",
+      "东方财富: 002446"
+    ],
+    "updatedAt": "2026-06-03"
+  },
+  {
+    "id": "us-ge",
+    "code": "GE",
+    "name": "通用电气",
+    "nameEn": "General Electric Company",
+    "market": "US",
+    "track": "track-advanced-manufacturing",
+    "industry": "工业-航空发动机",
+    "price": 175.0,
+    "changePercent": 0.9,
+    "tags": [
+      "🟢",
+      "🟡"
+    ],
+    "tagReasons": {
+      "V": "全球航空发动机双寡头之一，剥离医疗/能源后聚焦航空制造",
+      "T": "LEAP 发动机放量 + GEnx 持续迭代，民航供应链高景气"
+    },
+    "logic": {
+      "long": "全球最大航空发动机制造商之一（与 Rolls-Royce 抗衡），护城河极深",
+      "mid": "中国商飞 C919 配套 + LEAP 发动机供应链国产化",
+      "short": "6 月珠海航展 + Q2 财报（7月）服务收入指引"
+    },
+    "risks": [
+      "民航周期下行",
+      "C919 国产化进展不及预期",
+      "供应链瓶颈"
+    ],
+    "catalysts": [
+      "C919 交付节奏",
+      "Q2 服务收入",
+      "航展订单"
+    ],
+    "dataSources": [
+      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000040545",
+      "Yahoo Finance: GE"
+    ],
+    "updatedAt": "2026-06-03"
+  },
+  {
+    "id": "cn-600031",
+    "code": "600031",
+    "name": "三一重工",
+    "nameEn": "Sany Heavy Industry Co., Ltd.",
+    "market": "CN",
+    "track": "track-advanced-manufacturing",
+    "industry": "工程机械",
+    "price": 18.2,
+    "changePercent": 1.5,
+    "tags": [
+      "🟢",
+      "🟡"
+    ],
+    "tagReasons": {
+      "V": "国内挖掘机+混凝土机械双龙头，全球第三大工程机械集团",
+      "T": "海外营收占比突破 60%（一带一路 + 欧美市场）"
+    },
+    "logic": {
+      "long": "国内工程机械龙头，挖掘机+起重机+混凝土机械全产品线",
+      "mid": "出海加速（北美/欧洲/东南亚），海外 ASP 比国内高 50%+",
+      "short": "6 月挖掘机销量数据 + 海外订单兑现"
+    },
+    "risks": [
+      "国内地产投资下滑",
+      "海外贸易摩擦",
+      "钢材价格波动"
+    ],
+    "catalysts": [
+      "6月销量数据",
+      "海外订单",
+      "Q2 财报（8月）"
+    ],
+    "dataSources": [
+      "http://www.sse.com.cn/disclosure/listedinfo/announcement/?productId=600031",
+      "东方财富: 600031"
+    ],
+    "updatedAt": "2026-06-03"
+  },
+  {
+    "id": "cn-002475",
+    "code": "002475",
+    "name": "立讯精密",
+    "nameEn": "Luxshare Precision Industry Co., Ltd.",
+    "market": "CN",
+    "track": "track-advanced-manufacturing",
+    "industry": "消费电子-精密制造",
+    "price": 42.5,
+    "changePercent": 2.7,
+    "tags": [
+      "🟢",
+      "🟡"
+    ],
+    "tagReasons": {
+      "V": "国内消费电子精密制造龙头，立讯+日铠双轮驱动",
+      "T": "拿下苹果 Vision Pro 二代整机代工 + AI 服务器/光模块新业务"
+    },
+    "logic": {
+      "long": "苹果 AirPods/iPhone/Watch 核心供应商，护城河深",
+      "mid": "Vision Pro 二代整机代工 + 苹果 AI 服务器组装",
+      "short": "WWDC 2026 + 苹果新机备货周期"
+    },
+    "risks": [
+      "苹果订单集中度高",
+      "消费电子需求疲软",
+      "毛利率被苹果压价"
+    ],
+    "catalysts": [
+      "WWDC 2026",
+      "Vision Pro 二代",
+      "苹果 AI 服务器订单"
+    ],
+    "dataSources": [
+      "https://www.szse.cn/disclosure/listed/notice/index.html?code=002475",
+      "东方财富: 002475"
+    ],
+    "updatedAt": "2026-06-03"
+  },
+  {
+    "id": "hk-00388",
+    "code": "00388",
+    "name": "香港交易所",
+    "nameEn": "Hong Kong Exchanges and Clearing Limited",
+    "market": "HK",
+    "track": "track-advanced-manufacturing",
+    "industry": "金融基础设施-交易所",
+    "price": 325.0,
+    "changePercent": 0.7,
+    "tags": [
+      "🟢"
+    ],
+    "tagReasons": {
+      "V": "全球最大 IPO 融资地之一，连接中国与世界的金融基础设施，ROE >25%"
+    },
+    "logic": {
+      "long": "港股+沪深港通+债券+商品+衍生品全产品线交易所，护城河由监管牌照构筑",
+      "mid": "中概股回流 + 港股 IPO 复苏 + 互联互通扩容",
+      "short": "南向资金加速流入 + Q2 新股上市节奏"
+    },
+    "risks": [
+      "港股成交量周期性",
+      "中概股回流节奏",
+      "监管政策变化"
+    ],
+    "catalysts": [
+      "Q2 财报（8月）",
+      "南向资金流入",
+      "港股 IPO 节奏"
+    ],
+    "dataSources": [
+      "https://www.hkexnews.hk/",
+      "Yahoo Finance: 0388.HK"
+    ],
+    "updatedAt": "2026-06-03"
+  }
+]

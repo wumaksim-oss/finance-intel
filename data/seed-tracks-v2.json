@@ -1,0 +1,262 @@
+[
+  {
+    "id": "track-ai-compute",
+    "name": "AI 算力",
+    "description": "AI 训练与推理的算力底座，Blackwell/GB200 周期叠加 sovereign AI 需求，是当前全球科技投资最确定的产业主线",
+    "category": "科技",
+    "heatScore": 96,
+    "tags": ["🟡", "🟢"],
+    "markets": ["US", "CN", "HK"],
+    "stockIds": ["us-nvda", "us-amd", "us-avgo", "cn-688256", "cn-300033", "hk-00020"],
+    "lastEvent": "2026-06-03",
+    "keyEvent": "黄仁勋台北演讲，Blackwell Ultra 产能爬坡顺利",
+    "source": "FinanceDatabase",
+    "fdSector": "Information Technology",
+    "categories": [
+      "Semiconductors & Semiconductor Equipment",
+      "Technology Hardware, Storage & Peripherals",
+      "Software"
+    ],
+    "industryKeywords": [
+      "Semiconductors",
+      "Technology Hardware, Storage & Peripherals",
+      "Application Software",
+      "Systems Software"
+    ],
+    "stockCount": 1847,
+    "lastUpdated": "2026-06-04"
+  },
+  {
+    "id": "track-innovative-drugs",
+    "name": "创新药",
+    "description": "GLP-1 减肥药超级周期 + ADC 双抗技术迭代 + 中国创新药出海 BD 兑现，是 2026 年最具长牛属性的医药主线",
+    "category": "医药",
+    "heatScore": 88,
+    "tags": ["🟢", "🟡"],
+    "markets": ["US", "CN", "HK"],
+    "stockIds": ["us-lly", "us-mrna", "cn-600276", "hk-06160"],
+    "lastEvent": "2026-06-02",
+    "keyEvent": "礼来 Orforglipron 三期数据公布，口服 GLP-1 时代开启",
+    "source": "FinanceDatabase",
+    "fdSector": "Health Care",
+    "categories": [
+      "Pharmaceuticals, Biotechnology & Life Sciences",
+      "Health Care Equipment & Services"
+    ],
+    "industryKeywords": [
+      "Pharmaceuticals",
+      "Biotechnology",
+      "Health Care Equipment",
+      "Health Care Supplies"
+    ],
+    "stockCount": 2634,
+    "lastUpdated": "2026-06-04"
+  },
+  {
+    "id": "track-ev",
+    "name": "新能源车",
+    "description": "全球电动化进入 50% 渗透率攻坚阶段，智能驾驶 + 800V 高压平台 + 固态电池是下一轮分化的胜负手",
+    "category": "汽车",
+    "heatScore": 84,
+    "tags": ["🟡", "🟢"],
+    "markets": ["US", "CN", "HK"],
+    "stockIds": ["us-tsla", "us-rivn", "cn-300750", "cn-002594", "hk-09866"],
+    "lastEvent": "2026-06-03",
+    "keyEvent": "比亚迪 5 月销量 33.2 万辆，连续 4 个月超特斯拉",
+    "source": "FinanceDatabase",
+    "fdSector": "Consumer Discretionary",
+    "categories": [
+      "Automobiles & Components",
+      "Consumer Durables & Apparel"
+    ],
+    "industryKeywords": [
+      "Automobile Manufacturers",
+      "Automobile Components",
+      "Motorcycles & Scooters",
+      "Household Appliances"
+    ],
+    "stockCount": 942,
+    "lastUpdated": "2026-06-04"
+  },
+  {
+    "id": "track-energy-storage",
+    "name": "储能",
+    "description": "全球大储装机进入爆发期，2025-2027 CAGR 预计 40%+，是中国制造业出海最具确定性的第二条增长曲线",
+    "category": "能源",
+    "heatScore": 82,
+    "tags": ["🟡", "🟢"],
+    "markets": ["US", "CN"],
+    "stockIds": ["us-tsla", "cn-300750", "cn-002074"],
+    "lastEvent": "2026-06-01",
+    "keyEvent": "国家能源局发布新型储能高质量发展行动方案",
+    "source": "FinanceDatabase",
+    "fdSector": "Industrials",
+    "categories": [
+      "Electrical Equipment",
+      "Capital Goods",
+      "Utilities"
+    ],
+    "industryKeywords": [
+      "Electrical Components & Equipment",
+      "Heavy Electrical Equipment",
+      "Construction & Engineering",
+      "Electric Utilities",
+      "Independent Power Producers & Renewable Electricity"
+    ],
+    "stockCount": 1156,
+    "lastUpdated": "2026-06-04"
+  },
+  {
+    "id": "track-semiconductor-equipment",
+    "name": "半导体设备",
+    "description": "美日荷出口管制倒逼国产替代加速，刻蚀/薄膜沉积/量测设备国产化率从 20% 向 50% 突围",
+    "category": "科技",
+    "heatScore": 90,
+    "tags": ["🟡", "🟢"],
+    "markets": ["US", "CN", "HK"],
+    "stockIds": ["us-asml", "us-amat", "cn-688012", "hk-00522"],
+    "lastEvent": "2026-06-03",
+    "keyEvent": "ASML 公布 2nm High-NA EUV 量产时间表，2027 年交付台积电",
+    "source": "FinanceDatabase",
+    "fdSector": "Information Technology",
+    "categories": [
+      "Semiconductors & Semiconductor Equipment"
+    ],
+    "industryKeywords": [
+      "Semiconductor Materials & Equipment",
+      "Semiconductors"
+    ],
+    "stockCount": 612,
+    "lastUpdated": "2026-06-04"
+  },
+  {
+    "id": "track-consumer-recovery",
+    "name": "消费复苏",
+    "description": "中国消费从'消费降级'转向'理性消费'，高端白酒、Costco 模式、即时零售三股力量重塑格局",
+    "category": "消费",
+    "heatScore": 72,
+    "tags": ["🟢", "🟡"],
+    "markets": ["US", "CN", "HK"],
+    "stockIds": ["us-cost", "us-sbux", "cn-600519", "hk-09988"],
+    "lastEvent": "2026-06-02",
+    "keyEvent": "5 月 CPI 同比 +0.4%，必选消费价格触底回升",
+    "source": "FinanceDatabase",
+    "fdSector": "Consumer Staples",
+    "categories": [
+      "Food, Beverage & Tobacco",
+      "Consumer Staples Distribution & Retail",
+      "Consumer Discretionary Distribution & Retail"
+    ],
+    "industryKeywords": [
+      "Beverages",
+      "Food Products",
+      "Tobacco",
+      "Consumer Staples Merchandise Retail",
+      "Broadline Retail",
+      "Specialty Retail"
+    ],
+    "stockCount": 2103,
+    "lastUpdated": "2026-06-04"
+  },
+  {
+    "id": "track-crypto",
+    "name": "数字货币 / 区块链",
+    "description": "BTC 现货 ETF 资金流入常态化 + 美国战略储备预期 + 稳定币法案推进，机构化进入下半场",
+    "category": "金融科技",
+    "heatScore": 78,
+    "tags": ["🔴", "🟡"],
+    "markets": ["US", "HK"],
+    "stockIds": ["us-coin", "us-mstr", "hk-03888"],
+    "lastEvent": "2026-06-03",
+    "keyEvent": "BTC 突破 11 万美元，MicroStrategy 持仓浮盈超 250 亿美元",
+    "source": "FinanceDatabase",
+    "fdSector": "Financials",
+    "categories": [
+      "Financial Services",
+      "Software"
+    ],
+    "industryKeywords": [
+      "Transaction & Payment Processing Services",
+      "Capital Markets",
+      "Application Software"
+    ],
+    "stockCount": 487,
+    "lastUpdated": "2026-06-04",
+    "note": "FinanceDatabase 主要覆盖股票标的；BTC/ETH 等原生加密资产走 CoinGecko / Cryptocurrencies 表 (3,367 symbols)，本赛道仅覆盖关联股票（交易所/矿企/资管平台）"
+  },
+  {
+    "id": "track-robotics",
+    "name": "机器人",
+    "description": "Tesla Optimus V3 + 国产人形机器人量产元年，2026 是具身智能从 PPT 走向工厂的拐点",
+    "category": "高端制造",
+    "heatScore": 86,
+    "tags": ["🟡", "🔴"],
+    "markets": ["US", "CN"],
+    "stockIds": ["us-tsla", "us-fanuy", "cn-300124", "cn-002472"],
+    "lastEvent": "2026-06-03",
+    "keyEvent": "Tesla Optimus V3 进入工厂实操测试，单台成本降至 2 万美元以内",
+    "source": "FinanceDatabase",
+    "fdSector": "Industrials",
+    "categories": [
+      "Machinery, Investments, Construction & Transportation",
+      "Capital Goods"
+    ],
+    "industryKeywords": [
+      "Industrial Machinery & Supplies & Components",
+      "Trading Companies & Distributors",
+      "Construction Machinery & Heavy Transportation Equipment",
+      "Electrical Equipment"
+    ],
+    "stockCount": 768,
+    "lastUpdated": "2026-06-04"
+  },
+  {
+    "id": "track-aerospace",
+    "name": "商业航天",
+    "description": "SpaceX 星舰成功入轨 + Rocket Lab 中型火箭 + 中国可回收火箭密集试车，太空经济进入产业化前夜",
+    "category": "航天",
+    "heatScore": 70,
+    "tags": ["🔴", "🟡"],
+    "markets": ["US", "CN"],
+    "stockIds": ["us-rklb", "us-spce", "cn-002446"],
+    "lastEvent": "2026-06-02",
+    "keyEvent": "Rocket Lab 中子号火箭首飞成功，2027 年实现月级发射能力",
+    "source": "FinanceDatabase",
+    "fdSector": "Industrials",
+    "categories": [
+      "Capital Goods"
+    ],
+    "industryKeywords": [
+      "Aerospace & Defense",
+      "Construction & Engineering"
+    ],
+    "stockCount": 423,
+    "lastUpdated": "2026-06-04"
+  },
+  {
+    "id": "track-advanced-manufacturing",
+    "name": "高端制造",
+    "description": "中国制造业从'出口代工'升级为'全球供应链核心节点'，工业母机 + 精密零部件 + 工业母机软件是卡脖子突围方向",
+    "category": "制造",
+    "heatScore": 75,
+    "tags": ["🟢", "🟡"],
+    "markets": ["US", "CN", "HK"],
+    "stockIds": ["us-ge", "cn-600031", "cn-002475", "hk-00388"],
+    "lastEvent": "2026-06-03",
+    "keyEvent": "工信部启动 2026 年工业母机高质量发展专项，立讯拿下苹果 Vision Pro 二代整机代工",
+    "source": "FinanceDatabase",
+    "fdSector": "Industrials",
+    "categories": [
+      "Capital Goods",
+      "Machinery, Investments, Construction & Transportation"
+    ],
+    "industryKeywords": [
+      "Industrial Conglomerates",
+      "Construction Machinery & Heavy Transportation Equipment",
+      "Industrial Machinery & Supplies & Components",
+      "Electrical Equipment"
+    ],
+    "stockCount": 3287,
+    "lastUpdated": "2026-06-04"
+  }
+]
